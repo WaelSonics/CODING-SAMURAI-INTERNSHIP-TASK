@@ -1,0 +1,2 @@
+# CODING-SAMURAI-INTERNSHIP-TASK
+Java Development and AI Tasks
