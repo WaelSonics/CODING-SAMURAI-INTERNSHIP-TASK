@@ -1,8 +1,7 @@
 # CODING-SAMURAI-INTERNSHIP-TASK
 
-
-                                  *Java Development Task 1*
-                                  //Task Management System\\  
+ *Java Development Task 1*
+//Task Management System\\  
                                   
 This is a simple task management system written in Java. It allows users to create tasks, mark them as completed, and manage their to-do
 list. Users can also log in with their credentials and have their tasks associated with their accounts.
@@ -36,7 +35,9 @@ list. Users can also log in with their credentials and have their tasks associat
   Select an option by entering the corresponding number.
 
 -To add a new user, choose option 1 and follow the prompts.
+
 -To log in as a user, choose option 2 and enter your user ID and password.
+
 -To exit the application, choose option 3.
 
 Once logged in, you can perform various tasks, including adding tasks, viewing specific tasks, viewing all tasks, marking tasks as
